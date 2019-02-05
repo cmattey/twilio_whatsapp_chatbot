@@ -1,7 +1,7 @@
 from chatbot import app
 import requests
 import json
-import config
+from chatbot import config
 from flask import request
 
 
